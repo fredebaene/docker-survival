@@ -1,4 +1,4 @@
-# Specify base images
+# Specify base image
 FROM rocker/verse:4.6
 
 # Install specific versions of packages
